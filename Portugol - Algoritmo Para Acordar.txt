@@ -1,0 +1,12 @@
+INÍCIO
+     1. Abrir os olhos;
+     2. Levantar;
+     3. Andar até a porta;
+     4. Colocar a mão na maçaneta da porta;
+     5. Girar a maçaneta;
+     6. Abrir a porta;
+     7. Entrar no banheiro;
+     8. Lavar o rosto;
+     9. Escovar os dentes;
+     10. Sair do banheiro; 
+FIM
